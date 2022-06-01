@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "732302426467",
+    "firebase_url": "https://simplecrud-2444d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "simplecrud-2444d",
+    "storage_bucket": "simplecrud-2444d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732302426467:android:e6a99479ce36408e45d356",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732302426467-r6gk37jecng3gd9j0d0bvjdenbea72aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI1wnBnDnjfLcmdywXnRoFujLJQMpqHeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732302426467-r6gk37jecng3gd9j0d0bvjdenbea72aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732302426467:android:0e7534eca6c38d9145d356",
+        "android_client_info": {
+          "package_name": "com.example.eldroid2final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732302426467-r6gk37jecng3gd9j0d0bvjdenbea72aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI1wnBnDnjfLcmdywXnRoFujLJQMpqHeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732302426467-r6gk37jecng3gd9j0d0bvjdenbea72aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
